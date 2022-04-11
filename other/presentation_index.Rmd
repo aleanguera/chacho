@@ -1,0 +1,58 @@
+---
+title: "PY0795 Presentation"
+subtitle: "Yes, I did this on RStudio; <br/> Yes, I am sorry"
+author: 
+institute: 
+date: "9 Nov 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+# Our team members are:
+
+- Alejandro Anguera
+- Emily Jensen
+- Emily Oliver
+- Phoebe Penfold
+- Brontë Rapps
+
+---
+# Alejandro Anguera:
+
+- Research interests: *Evolutionary and Forensic Psychology*
+- Interesting fact: *PhD in the trash*
+- Boring fact: *Toes*
+
+---
+# Emily Jensen:
+- Research interests: *Sleep*
+- Interesting fact: *Snow on birthday*
+- Boring fact: *1/8th Danish*
+
+---
+# Emily Oliver:
+- Research interests: *Social LGBTQ+*
+- Interesting fact: *Ross Kemp*
+- Boring fact: *Ham Sandwiches*
+
+---
+# Phoebe Penfold:
+- Research interests: *Eating Disorders*
+- Interesting fact: *Qualified dental nurse*
+- Boring fact: *Has revolved 26 times around the sun*
+
+---
+# Brontë Rapps:
+- Research interests: *Victimisation experiences, LGBTQ+*
+- Interesting fact: *Had barely any hair until 2 years old*
+- Boring fact: *Granola bar*
+![Bronte](bebe.jpg)
+---
+# The End
+
+![That's all folks!](https://media.giphy.com/media/xUPOqo6E1XvWXwlCyQ/giphy.gif)
